@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A comparison betvveene the dayes of Purim and that of the Powder treason for the better continuance 
+I said, I would scatter them into Corners, I would make the remembrance of them to cease from among 
 #####Body#####
-A comparison betvveene the dayes of Purim and that of the Powder treason for the better continuance 
+
+1. A COMPARISON BETWEENE THE DAIES OF PVRIM AND THAT OF THE POWDER TREASON &c.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
